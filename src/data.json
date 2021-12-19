@@ -1,0 +1,46 @@
+{
+    "products": [
+      {
+        "_id": "veg1",
+        "image": "/images/veg1.jpg",
+        "title": "Midi sunveg with shirring detail",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 37
+      },
+      {
+        "_id": "veg2",
+        "image": "/images/veg2.jpg",
+        "title": "Midi sunveg with ruched front",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 41
+      },
+      {
+        "_id": "veg3",
+        "image": "/images/veg3.jpg",
+        "title": "Midi veg in pink ditsy floral",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 53
+      },
+      {
+        "_id": "veg4",
+        "image": "/images/veg4.jpg",
+        "title": "cami maxi veg in polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 61
+      },
+      {
+        "_id": "veg5",
+        "image": "/images/veg5.jpg",
+        "title": "Frill mini veg in yellow polka dot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 72
+      },
+      {
+        "_id": "veg6",
+        "image": "/images/veg6.jpg",
+        "title": "Midi tea veg in blue and red spot",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "price": 49.9
+      }
+    ]
+  }
